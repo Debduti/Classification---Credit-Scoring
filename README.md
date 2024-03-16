@@ -1,1 +1,1 @@
-# Classification---Credit-Scoring
+# Credit-Scoring
